@@ -1642,3 +1642,8 @@ The following settings have been applied:
 [2024.05.15-10.55.04:127][592]LogExit: Preparing to exit.
 [2024.05.15-10.55.06:439][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2024.05.15-10.55.08:308][592]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-10.55.08:763][592]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.05.15-10.55.09:743][592]LogExit: Editor shut down
+[2024.05.15-10.55.09:745][592]LogExit: Transaction tracking system shut down
+[2024.05.15-10.55.15:948][592]LogExit: Object subsystem successfully closed.
+[2024.05.15-10.55.16:025][592]LogShaderCompilers: Display: Shaders left to compile 0
