@@ -59,6 +59,10 @@
 		{
 			"Name": "LiveLinkCamera",
 			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemOculus",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
